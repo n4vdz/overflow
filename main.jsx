@@ -1,1 +1,1 @@
-main
+console.log("first")
